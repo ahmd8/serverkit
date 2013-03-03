@@ -9,9 +9,13 @@ there are some solutions which will allow us -web developers- to build for mac a
 
 the concept for this project is
 combine
+
 1- webkit
+
 2- nginx (portable)
+
 3- sqlite
+
 4- Cordova
 
 combine them in mac application that have only webview as (webkit) and have also nginx linked to this webview
@@ -22,5 +26,5 @@ Build for mac app store using  a stack of nginx+webkit+sqlite+Cordova, so you ca
 
 
 
-I asked a question in stackover flow long time ago but answers, so I had to create this repo to market for this concept
+I asked a question in stackoverflow long time ago but no answers, so I had to create this repo to market for this concept
 http://stackoverflow.com/questions/13108944/can-i-use-nginxwebkitphpsqlite-to-create-mac-appstore-applications
